@@ -10,6 +10,8 @@ gem 'rails', '4.2.5'
 # Use SCSS for stylesheets
 gem 'carrierwave'
 
+gem 'mini_magick', '3.8.0'
+
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
@@ -37,6 +39,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 gem 'devise'
+gem 'gravtastic'
 gem 'bootstrap-sass', '~> 3.3.5'
 
 
